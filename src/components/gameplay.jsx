@@ -1,7 +1,5 @@
 import { Component } from "react";
 import Button from "./button";
-import App from "../App";
-import Alert from "./Alert";
 
 import circle from "../assets/images/circle.png";
 import cloud from "../assets/images/cloud.png";
